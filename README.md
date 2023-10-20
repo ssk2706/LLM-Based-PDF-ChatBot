@@ -18,6 +18,7 @@ Streamlit Interface: The code provides a user-friendly interface powered by Stre
 
 This project is designed to make it easier for users to extract information from PDF documents and engage in dynamic conversations, creating an efficient and user-friendly way to access and interact with PDF content.
 
+This chatbot also remembers the context of previous quetion to answer next one (Can see on one of the screenshot)
 
 When I started working on the project I didn't had access to OpenAI API so sticked with models available on HuggingFace.
 It gives good results but just takes so much time for embedding and retriving answers.
